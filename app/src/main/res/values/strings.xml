@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tarea1_GutierrezRuiz_Francisco</string>
+    <string name="textoSaludo">La primera aplicación móvil de Francisco Gutiérrez Ruiz</string>
+    <string name="finalizar">Finalizar</string>
+</resources>
